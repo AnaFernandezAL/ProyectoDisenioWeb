@@ -1,4 +1,4 @@
-const urlServer = 'https://anafernandezal.github.io/ProyectoDisenoWeb/JSON/imagenesGaleria.json';
+const urlServer = 'https://anafernandezal.github.io/ProyectoDisenioWeb/JSON/imagenesGaleria.json';
 
 const listaGaleria = document.getElementById('gallery');
 
